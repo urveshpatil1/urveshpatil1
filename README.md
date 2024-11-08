@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @urveshpatil1
-- 👀 I’m interested in:- Building impactful applications
+- 👀 I’m interested in:- Building impactful, user-centric applications
 - 🌱 I’m currently learning :- Full Stack Development
 - 📫 How to reach me:- urveshpatil15103@gmail.com
   
