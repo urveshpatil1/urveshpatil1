@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @urveshpatil1
 - 📫 How to reach me:- urveshpatil15103@gmail.com
 - 👀 I’m interested in:- Solving problems by building impactful, user-centric applications
 - 🌱 I’m currently learning :- Full Stack Development
