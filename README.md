@@ -1,6 +1,5 @@
-- 📫 How to reach me:- urveshpatil15103@gmail.com
+- 📫 How to reach me:- urveshpatil798@gmail.com
 - 👀 I’m interested in:- Solving problems by building impactful, user-centric applications
-- 🌱 I’m currently learning :- Full Stack Development
 - 👯 I’m looking to collaborate on full-stack projects
 
   
