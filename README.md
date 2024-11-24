@@ -1,6 +1,6 @@
 - 📫 How to reach me:- urveshpatil798@gmail.com
 - 👀 I’m interested in:- Solving problems by building impactful, user-centric applications
-- 👯 I’m looking to collaborate on full-stack projects
+  
 
   
 
