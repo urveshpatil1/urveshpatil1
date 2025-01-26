@@ -1,5 +1,6 @@
 - 📫 How to reach me:- urveshpatil798@gmail.com
-- 👀 I’m interested in:- Solving problems by building impactful, user-centric applications
+- 👀 I’m interested in:- I like to solve problems related to the web. Solving problems by building impactful, user-centric applications
+  
   
 
   
