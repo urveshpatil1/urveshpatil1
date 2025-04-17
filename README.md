@@ -1,4 +1,4 @@
-- 📫 How to reach me:- urveshpatil.dev@gmail.com
+- 📫 How to reach me:- urveshpatil.dev@gmail.com   |   https://x.com/urvesh_mp
 - 👀 I’m interested in:- Solving problems by building impactful, user-centric applications
   
   
