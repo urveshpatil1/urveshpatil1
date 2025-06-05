@@ -1,6 +1,5 @@
-- 📫 How to reach me:- 
-
-Contact me at [my email address](mailto:urveshpatil.dev@gmail.com  ) :envelope:                                                                                 
+📫 How to reach me:- 
+- urveshpatil.dev@gmail.com                                                                
 - https://x.com/urvesh_mp
 - https://www.linkedin.com/in/urveshpatil1
     
